@@ -39,13 +39,15 @@ The stock market refers to public markets that exist for issuing, buying, and se
 
 Linear Regression is the supervised Machine Learning model in which the model finds the best fit linear line between the independent and dependent variable i.e it finds the linear relationship between the dependent and independent variable.
 
+### Objective
 
-### Project Graphs
+In this project we will try to predict or get as close as possible to the value of a stock for data not yet observed.
+
+
+### Images
 
 #### Regression model comparison
 <img src="https://github.com/LucasDiogo96/Stock-Market-Prediction/blob/main/images/linear_regression.png" alt="TSP" width="600"/>
-
-
 
 
 #### Stock valuation vs predicted for unseen sample
