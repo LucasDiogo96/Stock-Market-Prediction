@@ -10,7 +10,7 @@ Click here to read my article about it on Medium: [Predição de ações na bols
 ## Built With
 - [Python 3.10](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
-- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Prophet](https://facebook.github.io/prophet/)
 - [Plotly](https://plotly.com/)
 - [Yahoo Query](https://pypi.org/project/yahooquery/)
 - [Pandas TA ](https://github.com/twopirllc/pandas-ta)
@@ -44,6 +44,15 @@ Linear Regression is the supervised Machine Learning model in which the model fi
 ### Goal
 
 In this project we will try to predict or get as close as possible to the value of a stock for data not yet observed.
+
+### Images
+
+![download (1)](https://user-images.githubusercontent.com/44218496/157744172-d9a3577d-6bea-4dd4-9ee3-eb262bfed182.png)
+
+![newplot (3)](https://user-images.githubusercontent.com/44218496/157744198-1f2debbb-4ce2-487a-8758-5735766c7525.png)
+
+![newplot](https://user-images.githubusercontent.com/44218496/157744683-ec914011-6af5-4b3c-a068-7f8d0194b7a6.png)
+
 
 
 ## References
