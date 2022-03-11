@@ -2,13 +2,15 @@
 
 This solution is based on linear regression to predict the value of a stock on the stock exchange.
 
+Click here to read my article about it on Medium: [Predição de ações na bolsa de valores com Python e Facebook Prophet](https://medium.com/@lucasdiogodasilva/predi%C3%A7%C3%A3o-de-a%C3%A7%C3%B5es-na-bolsa-de-valores-com-python-e-facebook-prophet-64c6c154b176) 
+
 ## Type of application
   Jupyter Notebook
 
 ## Built With
 - [Python 3.10](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
-- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Prophet](https://facebook.github.io/prophet/)
 - [Plotly](https://plotly.com/)
 - [Yahoo Query](https://pypi.org/project/yahooquery/)
 - [Pandas TA ](https://github.com/twopirllc/pandas-ta)
@@ -20,7 +22,7 @@ This solution is based on linear regression to predict the value of a stock on t
 2 - You need to have installed the following packages
 
 - [Pandas](https://pandas.pydata.org/)
-- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Prophet](https://facebook.github.io/prophet/)
 - [Plotly](https://plotly.com/)
 - [Yahoo Query](https://pypi.org/project/yahooquery/)
 - [Pandas TA ](https://github.com/twopirllc/pandas-ta)
@@ -45,12 +47,12 @@ In this project we will try to predict or get as close as possible to the value 
 
 ### Images
 
-#### Regression model comparison
-<img src="https://github.com/LucasDiogo96/Stock-Market-Prediction/blob/main/images/linear_regression.png" alt="TSP" width="600"/>
+![download (1)](https://user-images.githubusercontent.com/44218496/157744172-d9a3577d-6bea-4dd4-9ee3-eb262bfed182.png)
 
+![newplot (3)](https://user-images.githubusercontent.com/44218496/157744198-1f2debbb-4ce2-487a-8758-5735766c7525.png)
 
-#### Stock valuation vs predicted for unseen sample
-<img src="https://github.com/LucasDiogo96/Stock-Market-Prediction/blob/main/images/linear_regression_2.png" alt="TSP" width="600"/>
+![newplot](https://user-images.githubusercontent.com/44218496/157744683-ec914011-6af5-4b3c-a068-7f8d0194b7a6.png)
+
 
 
 ## References
