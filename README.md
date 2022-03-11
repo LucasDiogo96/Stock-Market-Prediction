@@ -45,15 +45,7 @@ Linear Regression is the supervised Machine Learning model in which the model fi
 
 In this project we will try to predict or get as close as possible to the value of a stock for data not yet observed.
 
-### Images
-
-![download (1)](https://user-images.githubusercontent.com/44218496/157744172-d9a3577d-6bea-4dd4-9ee3-eb262bfed182.png)
-
-![newplot (3)](https://user-images.githubusercontent.com/44218496/157744198-1f2debbb-4ce2-487a-8758-5735766c7525.png)
-
-![newplot](https://user-images.githubusercontent.com/44218496/157744683-ec914011-6af5-4b3c-a068-7f8d0194b7a6.png)
-
-
+![newplot (2)](https://user-images.githubusercontent.com/44218496/157891077-1edd3b67-08e8-4663-956c-518d3c19e03d.png)
 
 ## References
 
@@ -61,6 +53,3 @@ In this project we will try to predict or get as close as possible to the value 
 - [Yahoo Finance](https://finance.yahoo.com/)
 - [What is stock market](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/stock-market/)
 - [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
-
-
-
